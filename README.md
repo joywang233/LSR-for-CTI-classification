@@ -35,5 +35,3 @@ self-collected and included in this repository
 ## ✅ Ethics Approval
 This study was approved by the Queensland University of Technology (QUT) Human Research Ethics Committee under Low-Risk Application No. **LR 2022-6079-10144**.
 
-## 📁 Repository Contents
-
