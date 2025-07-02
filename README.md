@@ -16,18 +16,18 @@ self-collected and included in this repository
 - Behzadan, V., Aguirre, C., Bose, A., & Hsu, W. (2018, December). Corpus and deep learning classifier for collection of cyber threat indicators in twitter stream. In 2018 IEEE International Conference on Big Data (Big Data) (pp. 5002-5007). IEEE.
 
 
-### 1. TD Dataset (Twitter Data)
+### What's included in the TD Dataset (Twitter Data)
 - The TD dataset consists of tweets grouped into five topics[music, sports, cyber security, movies, health].
 - These tweets were collected in 2023 using the Twitter API.
 - We provide **tweet IDs only**, in accordance with [Twitter's Developer Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy), which allows the sharing of up to 50,000 tweet IDs for non-commercial academic research purposes.
 - To access the full tweet content, users must **rehydrate** the tweets using their own Twitter API credentials.
 
-### 2. TD Dataset Embeddings
+### TD Dataset Embeddings
 - To enable reproducibility of our results, we provide **SentenceBERT embeddings** generated from the TD dataset using the `sentence-t5-base` model.
 - These embeddings are **non-reversible** and do not contain any text, metadata, or identifiers linking back to individuals.
 - The embeddings are strictly derived for academic use and are provided for research reproducibility only.
 
-### 3. Anonymity and Privacy
+### Anonymity and Privacy
 - No personally identifiable information (PII) is included.
 - Tweet text, usernames, timestamps, and other metadata are **not** shared.
 - Embeddings are not linked to reconstructable content.
