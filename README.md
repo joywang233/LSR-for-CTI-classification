@@ -5,9 +5,16 @@ This repository supports the paper **"LSR: Latent Space Refinement for Cyber Thr
 ## 📊 Datasets
 
 Three datasets are used in the study:
-### 1. TD Dataset(self-collected and included in this repository)
-### 2. BC Dataset (from work Cyberthreat detection from twitter using deep neural networks)
-### 3. STC Dataset (from work Corpus and deep learning classifier for collection of cyber threat indicators in twitter stream)
+### 1. TD Dataset
+self-collected and included in this repository
+### 2. BC Dataset 
+From work Cyberthreat detection from twitter using deep neural networks
+Dionísio, N., Alves, F., Ferreira, P. M., & Bessani, A. (2019, July). Cyberthreat detection from twitter using deep neural networks. In 2019 international joint conference on neural networks (IJCNN) (pp. 1-8). IEEE.
+
+### 3. STC Dataset 
+From work Corpus and deep learning classifier for collection of cyber threat indicators in twitter stream
+Behzadan, V., Aguirre, C., Bose, A., & Hsu, W. (2018, December). Corpus and deep learning classifier for collection of cyber threat indicators in twitter stream. In 2018 IEEE International Conference on Big Data (Big Data) (pp. 5002-5007). IEEE.
+
 
 ### 1. TD Dataset (Twitter Data)
 - The TD dataset consists of tweets grouped into five topics[music, sports, cyber security, movies, health].
