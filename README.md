@@ -1,6 +1,6 @@
 # LSR-for-CTI-classification
 
-This repository supports the paper **"LSR: Latent Space Refinement for Cyber Threat Intelligence Classification"**, which proposes an unsupervised text classification method to identify and organize Cyber Threat Intelligence (CTI) topics from open-source data.
+This repository supports the paper **"LSR: Latent Space Refinement for Cyber Threat Intelligence Classification"**, which proposes an unsupervised text classification method to identify and organize Cyber Threat Intelligence (CTI) text from open-source data.
 
 ## 📊 Datasets
 
